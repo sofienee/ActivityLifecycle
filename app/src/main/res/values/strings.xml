@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity Lifecycle</string>
+    <string name="open_the_logcat_window_of_android_studio">open the logcat window of android studio</string>
+</resources>
